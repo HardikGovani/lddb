@@ -1,0 +1,97 @@
+drivers/
+├── char/         # Character devices
+├── gpio/         # GPIO drivers
+├── i2c/          # I2C controller + client
+├── spi/          # SPI controller + devices
+├── net/          # Ethernet, WiFi
+├── media/        # V4L2 camera, sensors
+├── mmc/          # SD card
+├── tty/          # UART/serial console
+├── input/        # Keypad, touch, etc.
+├── usb/          # USB host/device
+├── video/        # Display and framebuffer
+└── thermal/      # Thermal zone / temperature sensors
+
+
+
+STM32MP157F-DK2 : 
+https://in.element14.com/stmicroelectronics/stm32mp157f-dk2/discovery-kit-arm-cortex-a7-cortex/dp/3600927
+
+Sitara AM3358BZCZ100 Processor
+https://docs.beagleboard.org/boards/beaglebone/black/ch06.html
+https://www.ti.com/product/AM3358
+
+1) 
+Embedded Linux system development {
+Prerequisites : https://bootlin.com/blog/command-line/
+Course Page   : https://bootlin.com/training/embedded-linux/
+Agenda        : https://bootlin.com/doc/training/embedded-linux/embedded-linux-online-agenda.pdf
+Timings       : 5 days / 40 hours    
+}
+
+2) 
+Embedded Linux kernel and driver development training {
+Prerequisites : https://bootlin.com/blog/command-line/   &&   https://bootlin.com/training/embedded-linux/
+Course Page   : https://bootlin.com/training/kernel/
+Agenda        : https://bootlin.com/doc/training/linux-kernel/linux-kernel-agenda.pdf
+Timings       : 5 days / 40 hours 
+}
+
+3) 
+Yocto Project and OpenEmbedded development training {
+Prerequisites : https://bootlin.com/blog/command-line/   &&   https://bootlin.com/training/embedded-linux/
+Course Page   : https://bootlin.com/training/yocto/
+Agenda        : https://bootlin.com/doc/training/yocto/yocto-agenda.pdf
+Timings       : 3 days / 24 hours 
+}
+
+4) 
+Embedded Linux development with Buildroot training {
+Prerequisites : https://bootlin.com/blog/command-line/   &&   https://bootlin.com/training/embedded-linux/
+Course Page   : https://bootlin.com/training/buildroot/
+Agenda        : https://bootlin.com/doc/training/buildroot/buildroot-agenda.pdf
+Timings       : 3 days / 24 hours 
+}
+
+5) 
+Real-time Linux with PREEMPT_RT training {
+Prerequisites : https://bootlin.com/blog/command-line/   &&   https://bootlin.com/training/embedded-linux/
+Course Page   : https://bootlin.com/training/preempt-rt/
+Agenda        : https://bootlin.com/doc/training/preempt-rt/preempt-rt-online-agenda.pdf
+Timings       : 2 days / 16 hours 
+}
+
+6) 
+Training – Understanding the Linux Graphics Stack {
+Prerequisites : Embedded Linux kernel and driver development training
+Course Page   : https://bootlin.com/training/graphics/
+Agenda        : https://bootlin.com/doc/training/graphics/graphics-agenda.pdf
+Timings       : 2 days / 16 hours 
+}
+
+
+7) 
+Linux debugging, tracing, profiling and performance analysis {
+Prerequisites : https://bootlin.com/training/embedded-linux/
+Course Page   : https://bootlin.com/training/debugging/
+Agenda        : https://bootlin.com/doc/training/debugging/debugging-agenda.pdf
+Timings       : 3 days / 24 hours  
+}
+
+8) 
+Embedded Linux audio training {
+Prerequisites : Embedded Linux kernel and driver development training
+Course Page   : https://bootlin.com/training/audio/
+Agenda        : https://bootlin.com/doc/training/audio/audio-agenda.pdf
+Timings       : 2 days / 16 hours
+}
+
+
+9) 
+Embedded Linux networking training {
+Prerequisites : Embedded Linux kernel and driver development training
+Course Page   : https://bootlin.com/training/networking/
+Agenda        : https://bootlin.com/doc/training/networking/networking-agenda.pdf
+Timings       : 3 days / 24 hours   
+}
+
